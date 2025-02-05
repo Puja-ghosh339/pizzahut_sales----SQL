@@ -1,1 +1,1 @@
-# pizzahut_sales----SQL
+# pizzahut_sales -- SQL
